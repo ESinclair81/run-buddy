@@ -265,6 +265,10 @@ section {
   .contact-info a {
     color: #fce138;
   }
+
+  .map {
+    margin-top: auto;
+  }
   
   /* REACH OUT STYLES END */
   
