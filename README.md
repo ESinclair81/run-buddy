@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Run Buddy Inc.
+# Run Buddy, Inc. #
 =======
 # Run Buddy, Inc
 >>>>>>> e2cde2200f47e06c891542f01ca228978b1be2e8
