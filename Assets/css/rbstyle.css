@@ -232,6 +232,10 @@ section {
     background: #024e76;
   }
 
+  .info {
+    display: inline-block;
+  }
+
   .contact h2 {
     color: #fce138;
   }
@@ -270,5 +274,8 @@ section {
     margin-top: auto;
   }
   
+  address {
+    display: inline-flex;
+  }
   /* REACH OUT STYLES END */
   
