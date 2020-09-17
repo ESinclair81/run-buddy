@@ -360,8 +360,44 @@ background-position: 80%;
         flex: 1;
       }
 
-      .trainer img {
+      .trainer-img {
         width: 100%;
+        min-height: 300px;
+        display: flex;
+      padding: 15px;
+      align-items: flex-end;
+      }
+
+      .trainer-img::after {
+        content: "";
+        height: 100%;
+        width: 100%;
+        background: rgba(252, 225, 56, 0.3);
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+
+      .trainer-img h3 {
+        position: relative;
+        z-index: ???;
+      }
+      
+      .trainer-img h4 {
+        position: relative;
+        z-index: ???;
+      }
+
+      .trainer-1 {
+        background-image: url("./assets/images/trainer-1.jpg");
+      }
+
+      .trainer-2 {
+        background-image: url("./assets/images/trainer-2.jpg");
+      }
+
+      .trainer-3 {
+        background-image: url("./assets/images/trainer-3.jpg");
       }
 
       .trainers {
