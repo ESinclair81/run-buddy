@@ -366,6 +366,7 @@ background-position: 80%;
         display: flex;
       padding: 15px;
       align-items: flex-end;
+      position: absolute;
       }
 
       .trainer-img::after {
@@ -390,14 +391,17 @@ background-position: 80%;
 
       .trainer-1 {
         background-image: url("./assets/images/trainer-1.jpg");
+        position: absolute;
       }
 
       .trainer-2 {
         background-image: url("./assets/images/trainer-2.jpg");
+        position: absolute;
       }
 
       .trainer-3 {
         background-image: url("./assets/images/trainer-3.jpg");
+        position: absolute;
       }
 
       .trainers {
@@ -406,6 +410,7 @@ background-position: 80%;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
+        
       }
 
       .section-title {
