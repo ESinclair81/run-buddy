@@ -28,7 +28,7 @@ header {
     position: -webkit-sticky;
    position: sticky;
    top: 0;
-   background-image: url("../images/hero-bg.jpg");
+   background-image: url("../Images/hero-bg.jpg");
    background-size: cover;
    background-position: center;
    background-attachment: fixed;
@@ -390,17 +390,17 @@ background-position: 80%;
       }
 
       .trainer-1 {
-        background-image: url("./assets/images/trainer-1.jpg");
+        background-image: url("./Assets/Images/trainer-1.jpg");
         position: absolute;
       }
 
       .trainer-2 {
-        background-image: url("./assets/images/trainer-2.jpg");
+        background-image: url("./Assets/Images/trainer-2.jpg");
         position: absolute;
       }
 
       .trainer-3 {
-        background-image: url("./assets/images/trainer-3.jpg");
+        background-image: url("./Assets/Images/trainer-3.jpg");
         position: absolute;
       }
 
